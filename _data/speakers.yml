@@ -2,10 +2,10 @@
   id: 3
   name: "Mitch"
   surname: "Daniels"
-  company: ""
-  title: "Developer Relations Program Manager"
-  bio: "Dawid is true technology enthusiast, who loves to work in areas where humans and machines meet to create amazing new products and services. He is experienced program manager with strong technical background, who is able to establish priorities for complex projects and execute across multiple organizations, according to long-term objectives. Dawid has worked in Poland, USA, Germany, Belgium and The Netherlands and truly values diversity of international working environment. His most visible characteristics are individualization (when dealing directly with people), ideation&intellection (inexhaustible source of new concepts) and strong communication (experienced trainer, community manager). He is also an activator constantly impatient for action."
-  thumbnailUrl: DawidOstrowski.jpg
+  company: "Viget"
+  title: "Digital Analyst"
+  bio: "As a Digital Analyst, Mitch works closely with clients to define and establish goals, measure site and campaign performance, and craft data-driven recommendations. His degree in Industrial and Systems Engineering from Virginia Tech provides him with a strong background in statistics and an appreciation for the powerful insights that data can provide. During his two years as an analyst at a not-for-profit government consultancy, Mitch collected and parsed millions of military maintenance records to quantify and lower costs. Over his three years at Viget, he has used Google Analytics, Google Tag Manager, and other tools to measure and improve the online presence of clients such as Massachusetts General Hospital, PUMA, Shure, Valspar, National 4-H and many others.."
+  thumbnailUrl: mitchdaniels.jpeg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
@@ -13,10 +13,10 @@
   id: 4
   name: "Sadayappan (Chida)"
   surname: "Chidambaram"
-  company: ""
-  title: ""
-  bio: '<p>Developer. Nominated to apply for the <a href="http://goo.gl/V7qHc">Google Developer Expert Program</a>. Finalist of <a href="http://goo.gl/HO2kLf">Google Apps Developer Challenge 2012</a>. Author of open source <a href="http://goo.gl/Sp5Pel">libraries</a> 1000+ stars. Writer. When Dmytro has free time he is writing <a href="http://goo.gl/AoOVru">technical articles</a>. Speaker. Always trying to share his knowledge &amp; experience on different <a href="http://goo.gl/PNolZY">events</a>. Big fan of android, flat design, stackoverflow, git, Intellij IDEA. Eclipse IDE hater.</p>'
-  thumbnailUrl: DmytroDanylyk.jpg
+  company: "Blitzar Labs"
+  title: "Executive Advisor"
+  bio: "Executive Advisor and implementer in the Cloud, Big Data & Analytics products; focused on solution building, design and implementation of data driven platforms. Built Big-Data and Analytics and Cloud practices. Over 20 years of information management solution experience; several years of that experience is in emerging technologies and Open Source tools in providing scalable and repeatable solutions, with great client relationship management. Currently focusing on Machine Learning, Deep Learning and Cloud adoption for enterprises and Startups.</p>"
+  thumbnailUrl: chida.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
@@ -29,7 +29,7 @@
   company: "Base CRM, GDG Krakow"
   title: "Software Engineer"
   bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
-  thumbnailUrl: MateuszHerych.jpg
+  thumbnailUrl: annycedavis.jpg
   rockstar: true
   ribbon: 
     - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
@@ -41,10 +41,10 @@
   id: 6
   name: "Doug"
   surname: "Chestnut"
-  company: "Stanfy, GDG Kyiv"
-  title: "Head of Android/Java Unit"
+  company: "UVA Library"
+  title: "Lead Mobile and Web Engineer"
   bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
-  thumbnailUrl: RomanMazur.jpg
+  thumbnailUrl: dougchestnut.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
@@ -53,12 +53,12 @@
     - {name: "twitter", link: "http://twitter.com/roman_mazur"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  company: "Twinfield, GDG Kyiv"
-  title: "Software engineer/country manager"
-  bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  thumbnailUrl: ValentynShybanov.jpg
+  name: "Jill"
+  surname: "Heinze"
+  company: "UVA Library"
+  title: "Director of User Experience"
+  bio: "Jill Stover Heinze is the Director of User Experience for UVA Library, where she is also a member of the Library’s Extended Leadership Team. Jill began her academic library career as the Undergraduate Services Coordinator at Virginia Commonwealth University (VCU).She became an invited speaker and writer on the topic of library marketing, earning recognition as a Library Journal Mover & Shaker for her efforts. After her tenure at VCU, she entered the private sector as a competitive intelligence analyst and remained active in the Competitive Intelligence Division of the Special Libraries Association. Today, Jill is thrilled to bring her library, market research, and analytical skills to her passion for connecting users with the library. She shares her day-to-day work on the User Experience at the U.Va. Library blog and she’s working on a book about marketing libraries that she should be finishing soon (fingers crossed!)."
+  thumbnailUrl: JillHeinze.jpg
   rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}

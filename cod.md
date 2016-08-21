@@ -15,6 +15,6 @@ If someone is bothering you, please tell GDG Organizers immediately and they wil
 
 ######Contacts:
 
-- Vitaliy Zasadnyy, +38 063 863 20 62, [vitaliy.zasadnyy@gdg.org.ua](mailto:vitaliy.zasadnyy@gdg.org.ua)
+- Starrie Williamson, (434) 924-7099 , [starriew@gmail.com](mailto:starriew@gmail.com)
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
