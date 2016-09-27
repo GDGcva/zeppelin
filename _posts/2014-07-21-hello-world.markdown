@@ -7,16 +7,16 @@ isStaticPost: false
 
 We're very excited - not just because of the inordinate amount of caffeine based products consumed - 
 but also because our team are putting together 
-the final missing parts to the biggest Google related event in Central Virginia - [GDG DevFest 2014](http://devfest.gdg.org.ua/). 
+the final missing parts to the biggest Google related event in Central Virginia - [GDG DevFest 2016](http://www.centralvirginia.com/). 
 
 This year event will take place in Charlottesville, VA. 
 
 So should you also be excited? Well yes... and here's why!
 
-* **Attendance**: we're expecting over 350 attendees
+* **Attendance**: we're expecting over 250 attendees
 * **Topic**: more than 48 hours of pure Google technologies 
 * **Date**: 24-25 of October, expect hackathon and workshops on a first day and conference on the second
-* **Venue**: Kinopalace Cinema - for a first time we'll make technical event in real cinema directly in the heart of the ancient city of Lviv
+* **Venue**: LiveArts - GDG Central Virginia DevFest will be 
 * **Speakers**: we're in the process of finalising the list of speakers
 
 but we've already secured a first batch of experts:
@@ -27,4 +27,4 @@ but we've already secured a first batch of experts:
 * **Roman Mazur** - speaker on various international conferences like Droidcon Eastern Europe and Ankara Developer Days<br>
 
 
-More details about speakers, DevFest Hackathon and Lviv will appear in subsequent posts, meantime like us on [Facebook](https://facebook.com/GDGLviv), follow on [Twitter](https://twitter.com/intent/user?screen_name=GDGLviv), add to circles in [Google+](https://plus.google.com/b/102444623953913144164) or subcribe to our [mailing list](http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&id=ae0fb459fc) and [RSS feed](http://devfest.gdg.org.ua/feed.xml) in order not to miss any cool stuff about festival.
+More details about speakers, DevFest Hackathon and Lviv will appear in subsequent posts, meantime like us on [Facebook](https://facebook.com/GDGCva), follow on [Twitter](https://twitter.com/intent/user?screen_name=GDGCva), add to circles in [Google+](https://plus.google.com/b/102444623953913144164) or subcribe to our [mailing list](http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&id=ae0fb459fc) and [RSS feed](http://devfest.gdg.org.ua/feed.xml) in order not to miss any cool stuff about festival.

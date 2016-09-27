@@ -1,4 +1,16 @@
 - 
+  id: 2
+  name: "Danny"
+  surname: "Blue"
+  company: "Viget"
+  title: "Digital Analyst"
+  bio: "Danny Blue is a web developer who has a passion for bleeding edge tech. He dreams of an entire world wide web rendered in Virtual Reality, all inside a service worker. As a co-host on the Web Platform Podcast, he has had a chance to talk to, learn from, and be humbled by some of the best in the business. An odd fascination with writing build scripts keeps his free time occupied and his projects running, let’s say, smoothly. He is a big fan of progressive web apps and marrying the web and native. His wonderful wife often lends an attentive, if not always interested, ear as he regales her with tales of filtering large lists in new threads and why she HAS to try this new VR demo he’s found."
+  thumbnailUrl: mitchdaniels.jpeg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
+- 
+- 
   id: 3
   name: "Mitch"
   surname: "Daniels"
@@ -15,7 +27,7 @@
   surname: "Chidambaram"
   company: "Blitzar Labs"
   title: "Executive Advisor"
-  bio: "Executive Advisor and implementer in the Cloud, Big Data & Analytics products; focused on solution building, design and implementation of data driven platforms. Built Big-Data and Analytics and Cloud practices. Over 20 years of information management solution experience; several years of that experience is in emerging technologies and Open Source tools in providing scalable and repeatable solutions, with great client relationship management. Currently focusing on Machine Learning, Deep Learning and Cloud adoption for enterprises and Startups.</p>"
+  bio: "Executive Advisor and implementer in the Cloud, Big Data & Analytics products; focused on solution building, design and implementation of data-driven platforms. Built Big-Data and Analytics and Cloud practices. Over 20 years of information management solution experience; several years of that experience is in emerging technologies and Open Source tools in providing scalable and repeatable solutions, with great client relationship management. Currently focusing on Machine Learning, Deep Learning and Cloud adoption for enterprises and Startups.</p>"
   thumbnailUrl: chida.jpg
   rockstar: true
   social: 
@@ -26,9 +38,8 @@
   id: 5
   name: "Annyce"
   surname: "Davis"
-  company: "Base CRM, GDG Krakow"
-  title: "Software Engineer"
-  bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
+  title: "Google Developer Expert"
+  bio: "Annyce is an Android Google Developer Expert. She has spent the past 5 years developing applications for the Android ecosystem across multiple form factors. She is also an international conference speaker and author, sharing her knowledge of Android development with others. After spending 7 years working in the media industry, she has recently shifted her passion for Android development to focus on powering homes with solar energy. In addition, Annyce is active in the Washington, DC tech scene and assists with running a local meetup focused on Android development and design."
   thumbnailUrl: annycedavis.jpg
   rockstar: true
   ribbon: 
@@ -43,7 +54,7 @@
   surname: "Chestnut"
   company: "UVA Library"
   title: "Lead Mobile and Web Engineer"
-  bio: "Roman started his way in Android 5 years ago and fall in love with this platform. Currently he is a head of Android unit in Stanfy LLC and a co-organizer of Kyiv Google Developers Group focusing on Android development. Roman is responsible for building a strong team of Android developers inside Stanfy as well as for organizing Android professionals community in Kyiv."
+  bio: "Doug Chestnut is a Programmer at the University of Virginia Library. Previously, Doug has worked on the Apache Lenya project as a committer, and now builds web applications for the Library at the University of Virginia. Doug is also building several GPS-guided drone aircraft to support research at the University of Virginia. In his free time, Doug uses Sketchup and power tools to build furniture and trim for his home in Waynesboro. If Google didn’t keep sending him gadgets in the mail, he would probably have finished building the kitchen cabinets by now."
   thumbnailUrl: dougchestnut.jpg
   rockstar: true
   ribbon:
@@ -59,9 +70,9 @@
   title: "Director of User Experience"
   bio: "Jill Stover Heinze is the Director of User Experience for UVA Library, where she is also a member of the Library’s Extended Leadership Team. Jill began her academic library career as the Undergraduate Services Coordinator at Virginia Commonwealth University (VCU).She became an invited speaker and writer on the topic of library marketing, earning recognition as a Library Journal Mover & Shaker for her efforts. After her tenure at VCU, she entered the private sector as a competitive intelligence analyst and remained active in the Competitive Intelligence Division of the Special Libraries Association. Today, Jill is thrilled to bring her library, market research, and analytical skills to her passion for connecting users with the library. She shares her day-to-day work on the User Experience at the U.Va. Library blog and she’s working on a book about marketing libraries that she should be finishing soon (fingers crossed!)."
   thumbnailUrl: JillHeinze.jpg
-  rockstar: true
+  rockstar: false
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "site", link: "http://library.virginia.edu"}
