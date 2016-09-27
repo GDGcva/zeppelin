@@ -5,11 +5,10 @@
   company: "Viget"
   title: "Digital Analyst"
   bio: "Danny Blue is a web developer who has a passion for bleeding edge tech. He dreams of an entire world wide web rendered in Virtual Reality, all inside a service worker. As a co-host on the Web Platform Podcast, he has had a chance to talk to, learn from, and be humbled by some of the best in the business. An odd fascination with writing build scripts keeps his free time occupied and his projects running, let’s say, smoothly. He is a big fan of progressive web apps and marrying the web and native. His wonderful wife often lends an attentive, if not always interested, ear as he regales her with tales of filtering large lists in new threads and why she HAS to try this new VR demo he’s found."
-  thumbnailUrl: mitchdaniels.jpeg
+  thumbnailUrl: Danny-Blue.jpg
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+DawidOstrowski/"}
-- 
 - 
   id: 3
   name: "Mitch"
