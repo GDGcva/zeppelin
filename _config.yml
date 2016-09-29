@@ -11,8 +11,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG DevFest Season 2016"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+email: "starriew@gmail.com"
+description: "GDG DevFest is a set of events all around the world."
 baseurl: "/zeppelin"
 url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
@@ -26,7 +26,7 @@ organizerAlternateName: "Google Developer Group Central Virginia"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "starriew@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://www.gdgcentralvirginia.com"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
