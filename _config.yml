@@ -73,7 +73,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "250", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
  - {count: "8", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "6", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "6", specialCharacter: "+", info: "speakers", detail: "from the mid-atlantic region"}
  - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "in UX/UI for web professionals in higher ed, museums and libraries"}
 
 # Latest News Block
@@ -149,7 +149,7 @@ ticketsOffers:
   ticketsNumber: "100"
   ribbon: "-20%"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "http://eduiconf.org/register/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-10-01T00:00"
@@ -159,13 +159,13 @@ ticketsOffers:
   name: "GDG Central Virginia Member Special Price"
   price: "300"
   priceCurrency: "Dollars"
-  ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  ticketsNumber: "20"
+  buyButtonLink: "http://eduiconf.org/register/"
   buyButtonText: "Buy Now"
-  additionalInfo: "Requires a previous recorded attendence to a GDG Cental Virginia Meetup"
+  additionalInfo: "Use Code: GDGCVA"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
+  validThrough: "2016-10-31T23:59"
   soldOut: false
   soldOutText: "Sold Out"
 
