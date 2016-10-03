@@ -37,6 +37,7 @@
   id: 5
   name: "Annyce"
   surname: "Davis"
+  company: "Google Developer Expert"
   title: "Google Developer Expert"
   bio: "Annyce is an Android Google Developer Expert. She has spent the past 5 years developing applications for the Android ecosystem across multiple form factors. She is also an international conference speaker and author, sharing her knowledge of Android development with others. After spending 7 years working in the media industry, she has recently shifted her passion for Android development to focus on powering homes with solar energy. In addition, Annyce is active in the Washington, DC tech scene and assists with running a local meetup focused on Android development and design."
   thumbnailUrl: annycedavis.jpg

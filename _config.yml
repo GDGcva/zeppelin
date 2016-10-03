@@ -52,7 +52,6 @@ bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Buy Tickets"}
 rightNavigationButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Buy Tickets"}
-
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG Central Virginia <typeout> 2016"
