@@ -2,7 +2,7 @@
   id: 2
   name: "Danny"
   surname: "Blue"
-  company: "Viget"
+  company: "Google Developer Expert"
   title: "Digital Analyst"
   bio: "Danny Blue is a web developer who has a passion for bleeding edge tech. He dreams of an entire world wide web rendered in Virtual Reality, all inside a service worker. As a co-host on the Web Platform Podcast, he has had a chance to talk to, learn from, and be humbled by some of the best in the business. An odd fascination with writing build scripts keeps his free time occupied and his projects running, let’s say, smoothly. He is a big fan of progressive web apps and marrying the web and native. His wonderful wife often lends an attentive, if not always interested, ear as he regales her with tales of filtering large lists in new threads and why she HAS to try this new VR demo he’s found."
   thumbnailUrl: Danny-Blue.jpg
@@ -24,7 +24,7 @@
   id: 4
   name: "Sadayappan (Chida)"
   surname: "Chidambaram"
-  company: "Blitzar Labs"
+  company: "Blitzar Labs, GDG Washington D.C."
   title: "Executive Advisor"
   bio: "Executive Advisor and implementer in the Cloud, Big Data & Analytics products; focused on solution building, design and implementation of data-driven platforms. Built Big-Data and Analytics and Cloud practices. Over 20 years of information management solution experience; several years of that experience is in emerging technologies and Open Source tools in providing scalable and repeatable solutions, with great client relationship management. Currently focusing on Machine Learning, Deep Learning and Cloud adoption for enterprises and Startups.</p>"
   thumbnailUrl: chida.jpg
