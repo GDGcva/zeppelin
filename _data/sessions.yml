@@ -26,8 +26,8 @@
   speakers: [3]
   language: en
   complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  presentation: ""
+  video: "//"
 -
   id: 003
   title: "Hands On With Google Cloud Platform Compute Engine Servers"
@@ -36,7 +36,7 @@
   speakers: [4]
   language: en
   complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  presentation: ""
 -
   id: 004
   title: "Develop Maintainable Apps"
@@ -45,8 +45,8 @@
   speakers: [5]
   language: uk
   complexity: "Advanced"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  presentation: ""
+  video: "//"
 -
   id: 005
   title: "Test: Interacting with Google Services using nothing but HTML"
