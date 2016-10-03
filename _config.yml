@@ -66,7 +66,7 @@ heroButtons:
 aboutTitle: "About GDG DevFest"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Mini Workshop", image: "workshop.jpg", text: "We will have a 90 minute mini workshop about how to use Google Cloud to create Drupal and Wordpress siites." }
+ - {title: "Mini Workshop", image: "workshop.png", text: "We will have a 90 minute mini workshop about how to use Google Cloud to create Drupal and Wordpress siites." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
