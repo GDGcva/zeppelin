@@ -49,11 +49,18 @@
   video: "//"
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [7]
+  title: "Progressive Web Apps with Firebase and Polymer"
+  description: "In this session you will learn about “Progressive Web Apps”, what exactly makes a Web App “Progressive” and how it improve’s user experiences through combining the best of the web and the best of apps. Benefits to the user start with the first use with no install required. Quick load times, availability on spotty networks, push notifications, a full screen experience and icon on home screen are some of the most advantageous qualities of Progressive Web Apps. Come join Doug for a walk through of how he built a Progressive Web App for the UVA Library to empower users to find books and other resources with the ease and mobility not possible before. What you’ll learn: What a Progressive Web Application is What Web Components are and how Polymer makes it easier to work with them How to create a Progressive Web Application using Web Components How to create, maintain, and (re)use your own web components using Polymer, Git, and Bower How to use Firebase to easily build in authentication and online/offline database access using the cloud."
+  subtype: talk
+  speakers: [6,7]
   language: en
   complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  -
+  id: 006
+  title: "Vanilla Custom Element Inter-op: Never Port Your Custom Dropdown Again"
+  description: "The web development community moves fast, so how do we avoid rebuilding our custom UI components every year or so? Enter custom elements. Custom Elements are an extremely powerful technology for building web applications and there have been many promises of plug and play, but how do we actually DO that? There are a ton of existing applications built with a variety of frameworks and libraries that we have to account for. In this talk you will learn how to create basic vanilla custom elements and how to integrate them into some of today’s most popular frameworks. What you’ll learn: How to create vanilla custom elements How to leverage custom attributes and Events for I/O How to then use these elements in existing frameworks. (Angular2, React, etc)"
+  subtype: talk
+  speakers: [2]
+  language: en
+  complexity: "Expert"
+  -
