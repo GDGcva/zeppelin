@@ -162,7 +162,7 @@ ticketsOffers:
   buyButtonLink: "http://eduiconf.org/register/"
   buyButtonText: "Buy Now"
   additionalInfo: "Use Code: GDGCVA"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: ["Special Discounted Price for GDG Central Virginia Members", "Use Discount Code: GDGCVA", "Typesetting industry"]
   validFrom: "2014-08-20T10:00"
   validThrough: "2016-10-31T23:59"
   soldOut: false

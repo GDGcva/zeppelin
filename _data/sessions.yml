@@ -26,8 +26,6 @@
   speakers: [3]
   language: en
   complexity: "Intermediate" 
-  presentation: ""
-  video: "//"
 -
   id: 003
   title: "Hands On With Google Cloud Platform Compute Engine Servers"
@@ -55,12 +53,4 @@
   speakers: [6,7]
   language: en
   complexity: "Expert"
-  -
-  id: 006
-  title: "Vanilla Custom Element Inter-op: Never Port Your Custom Dropdown Again"
-  description: "The web development community moves fast, so how do we avoid rebuilding our custom UI components every year or so? Enter custom elements. Custom Elements are an extremely powerful technology for building web applications and there have been many promises of plug and play, but how do we actually DO that? There are a ton of existing applications built with a variety of frameworks and libraries that we have to account for. In this talk you will learn how to create basic vanilla custom elements and how to integrate them into some of today’s most popular frameworks. What you’ll learn: How to create vanilla custom elements How to leverage custom attributes and Events for I/O How to then use these elements in existing frameworks. (Angular2, React, etc)"
-  subtype: talk
-  speakers: [2]
-  language: en
-  complexity: "Expert"
-  -
+
