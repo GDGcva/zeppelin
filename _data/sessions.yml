@@ -17,7 +17,6 @@
   speakers: [2]
   language: en
   complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
   title: "Stop Wasting Your Analytics Budget"
@@ -34,7 +33,6 @@
   speakers: [4]
   language: en
   complexity: "Intermediate" 
-  presentation: ""
 -
   id: 004
   title: "Develop Maintainable Apps"
@@ -43,8 +41,6 @@
   speakers: [5]
   language: uk
   complexity: "Advanced"
-  presentation: ""
-  video: "//"
 -
   id: 005
   title: "Progressive Web Apps with Firebase and Polymer"
