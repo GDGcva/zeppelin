@@ -136,9 +136,9 @@ ticketsOffers:
   priceCurrency: "Dollars"
   ticketsNumber: "50"
   ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonLink: "http://eduiconf.org/register/"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ticketContentList: ["Almost Sold Out!", "", ""]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
  -
@@ -178,12 +178,12 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "http://www.gdgcentralvirginia.com", text: "GDG.org.ua"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:starriew@gmail.com", text: "lviv@gdg.org.ua"}
  -
   title: "FAQ"
   links:

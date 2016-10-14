@@ -11,8 +11,8 @@
   service: true
 -
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
+  title: "Develop Maintainable Apps"
+  description: "The number of Android Libraries available is enormous and that number continues to grow day-by-day! But should you try to incorporate them all into your application? Do you really need to use EventBus, RxJava, and Custom Observables? How many different image libraries have you included? Hopefully you get the point, great Android apps only include what’s needed to achieve the goals of the product, not enhance the resume of the developer. In this talk learn four components essential to developing maintainable Android applications and walk away with the tools you need to be a good Android citizen! What you’ll learn: The criteria you should use when choosing a library to include in your project Simple changes you can adopt to improve your domain design Tools that are available to assist you in delivering high quality code Testing techniques to serve as a safety net."
   subtype: workshop
   speakers: [3, 6]
   language: en
@@ -20,8 +20,8 @@
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
+  title: "Stop Wasting Your Analytics Budget"
+  description: "When approached with clear intentions, web analytics can be a game-changing part of any online presence. It can inform massive redesigns, drive additional engagement, and spur continued site improvements. Despite its potential, the full power of analytics is often neutered by a misappropriation of priorities and resources, leading to a stream of sterile, uninspiring reports and dashboards. Learn to recognize these challenges, identify them within your own organization, and confront them head on. We’ll explore the distinction between ‘interesting’ and ‘actionable’ data, the downsides of monthly reports, and the importance of the 10/90 rule. Finally, we’ll identify a single word that will immediately push your analytics strategy in the right direction: “Why?”. What you’ll learn: How to think about web analytics and its role in decision making How to allocate your analytics budget How to make analytics reports compelling and actionable Why audience segmentation is indispensable Who in your organization should care about analytics"
   subtype: presentation
   speakers: [4, 5]
   language: en
@@ -30,8 +30,8 @@
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "Hands On With Google Cloud Platform Compute Engine Servers"
+  description: "Do you want to explore what Google has to offer in its Cloud Platform for developers, designers and administrators to build and scale? Google Cloud Platform offers several products including spinning up your own servers. In this mini-workshop we’ll talk about some of the basic services to make a content management, from the scratch. We will go through a quick overview of Google Compute Engine and the easiest way to spin and secure virtual servers for any web development. Be sure to bring your laptop, with your favorite text editor and web browser to get the most out of this mini-workshop. What you’ll do: Overview of Google Cloud Platform Products Overview of Google Compute Engine Access to Google Cloud Platform Create virtual machines Provision w/ startup and shutdown scripts Load balancing with Google's network load balancer and HTTP load balancer Set up web server(s) with a content management tool (Drupal, Wordpress) Set up storage, archive and Content Delivery Network"
   subtype: presentation
   speakers: [4]
   language: en
