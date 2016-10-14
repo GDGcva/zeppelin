@@ -14,7 +14,7 @@
   title: "Develop Maintainable Apps"
   description: "The number of Android Libraries available is enormous and that number continues to grow day-by-day! But should you try to incorporate them all into your application? Do you really need to use EventBus, RxJava, and Custom Observables? How many different image libraries have you included? Hopefully you get the point, great Android apps only include what’s needed to achieve the goals of the product, not enhance the resume of the developer. In this talk learn four components essential to developing maintainable Android applications and walk away with the tools you need to be a good Android citizen! What you’ll learn: The criteria you should use when choosing a library to include in your project Simple changes you can adopt to improve your domain design Tools that are available to assist you in delivering high quality code Testing techniques to serve as a safety net."
   subtype: workshop
-  speakers: [3, 6]
+  speakers: [5]
   language: en
   complexity: "Intermediate"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -23,7 +23,7 @@
   title: "Stop Wasting Your Analytics Budget"
   description: "When approached with clear intentions, web analytics can be a game-changing part of any online presence. It can inform massive redesigns, drive additional engagement, and spur continued site improvements. Despite its potential, the full power of analytics is often neutered by a misappropriation of priorities and resources, leading to a stream of sterile, uninspiring reports and dashboards. Learn to recognize these challenges, identify them within your own organization, and confront them head on. We’ll explore the distinction between ‘interesting’ and ‘actionable’ data, the downsides of monthly reports, and the importance of the 10/90 rule. Finally, we’ll identify a single word that will immediately push your analytics strategy in the right direction: “Why?”. What you’ll learn: How to think about web analytics and its role in decision making How to allocate your analytics budget How to make analytics reports compelling and actionable Why audience segmentation is indispensable Who in your organization should care about analytics"
   subtype: presentation
-  speakers: [4, 5]
+  speakers: [3]
   language: en
   complexity: "Intermediate" 
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
@@ -42,7 +42,7 @@
   title: "Progressive Web Apps with Firebase and Polymer"
   description: "In this session you will learn about “Progressive Web Apps”, what exactly makes a Web App “Progressive” and how it improve’s user experiences through combining the best of the web and the best of apps. Benefits to the user start with the first use with no install required. Quick load times, availability on spotty networks, push notifications, a full screen experience and icon on home screen are some of the most advantageous qualities of Progressive Web Apps. Come join Doug for a walk through of how he built a Progressive Web App for the UVA Library to empower users to find books and other resources with the ease and mobility not possible before. What you’ll learn: What a Progressive Web Application is What Web Components are and how Polymer makes it easier to work with them How to create a Progressive Web Application using Web Components How to create, maintain, and (re)use your own web components using Polymer, Git, and Bower How to use Firebase to easily build in authentication and online/offline database access using the cloud"
   subtype: keynote
-  speakers: [6]
+  speakers: [6, 7]
   language: uk
   complexity: "Beginner"
   presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
@@ -52,7 +52,7 @@
   title: "Vanilla Custom Element Inter-op: Never Port Your Custom Dropdown Again"
   description: "The web development community moves fast, so how do we avoid rebuilding our custom UI components every year or so? Enter custom elements. Custom Elements are an extremely powerful technology for building web applications and there have been many promises of plug and play, but how do we actually DO that? There are a ton of existing applications built with a variety of frameworks and libraries that we have to account for. In this talk you will learn how to create basic vanilla custom elements and how to integrate them into some of today’s most popular frameworks. What you’ll learn: How to create vanilla custom elements How to leverage custom attributes and Events for I/O How to then use these elements in existing frameworks. (Angular2, React, etc)"
   subtype: keynote
-  speakers: [7]
+  speakers: [2]
   language: en
   complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
