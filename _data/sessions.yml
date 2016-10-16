@@ -3,13 +3,13 @@
   title: "Morning Run With Josh Clark"
   place: "Hall"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: "Get your blood pumping"
 -
   id: 207
   title: "Breakfast"
   place: "Hall"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: "Fuel up for a great day of sessions"
 -
   id: 307
   title: "Coffee Break"
@@ -41,7 +41,7 @@
 -
   id: 003
   title: "Hands On With Google Cloud Platform Compute Engine Servers"
-  description: "Do you want to explore what Google has to offer in its Cloud Platform for developers, designers and administrators to build and scale? Google Cloud Platform offers several products including spinning up your own servers. In this mini-workshop we’ll talk about some of the basic services to make a content management, from the scratch. We will go through a quick overview of Google Compute Engine and the easiest way to spin and secure virtual servers for any web development. Be sure to bring your laptop, with your favorite text editor and web browser to get the most out of this mini-workshop. What you’ll do: Overview of Google Cloud Platform Products Overview of Google Compute Engine Access to Google Cloud Platform Create virtual machines Provision w/ startup and shutdown scripts Load balancing with Google's network load balancer and HTTP load balancer Set up web server(s) with a content management tool (Drupal, Wordpress) Set up storage, archive and Content Delivery Network"
+  description: "Do you want to explore what Google has to offer in its Cloud Platform for developers, designers and administrators to build and scale? Google Cloud Platform offers several products including spinning up your own servers. In this mini-workshop we’ll talk about some of the basic services to make a content management, from the scratch. We will go through a quick overview of Google Compute Engine and the easiest way to spin and secure virtual servers for any web development. Be sure to bring your laptop, with your favorite text editor and web browser to get the most out of this mini-workshop. <h4>What you’ll do:</h4> <ul><li>Overview of Google Cloud Platform Products</li> <li>Overview of Google Compute Engine</li> <li>Access to Google Cloud Platform</li> <li>Create virtual machines Provision w/ startup and shutdown scripts</li> <li>Load balancing with Google's network load balancer and HTTP load balancer</li> <li>Set up web server(s) with a content management tool (Drupal, Wordpress)</li> <li>Set up storage, archive and Content Delivery Network</li></ul>"
   subtype: presentation
   speakers: [4]
   language: en
@@ -50,7 +50,7 @@
 -
   id: 004
   title: "Progressive Web Apps with Firebase and Polymer"
-  description: "In this session you will learn about “Progressive Web Apps”, what exactly makes a Web App “Progressive” and how it improve’s user experiences through combining the best of the web and the best of apps. Benefits to the user start with the first use with no install required. Quick load times, availability on spotty networks, push notifications, a full screen experience and icon on home screen are some of the most advantageous qualities of Progressive Web Apps. Come join Doug for a walk through of how he built a Progressive Web App for the UVA Library to empower users to find books and other resources with the ease and mobility not possible before. What you’ll learn: What a Progressive Web Application is What Web Components are and how Polymer makes it easier to work with them How to create a Progressive Web Application using Web Components How to create, maintain, and (re)use your own web components using Polymer, Git, and Bower How to use Firebase to easily build in authentication and online/offline database access using the cloud"
+  description: "In this session you will learn about “Progressive Web Apps”, what exactly makes a Web App “Progressive” and how it improve’s user experiences through combining the best of the web and the best of apps. Benefits to the user start with the first use with no install required. Quick load times, availability on spotty networks, push notifications, a full screen experience and icon on home screen are some of the most advantageous qualities of Progressive Web Apps. Come join Doug for a walk through of how he built a Progressive Web App for the UVA Library to empower users to find books and other resources with the ease and mobility not possible before. <h4>What you’ll learn:</h4> <ul><li>What a Progressive Web Application is</li> <li>What Web Components are and how Polymer makes it easier to work with them</li> <li>How to create a Progressive Web Application using Web Components</li> <li>How to create, maintain, and (re)use your own web components using Polymer, Git, and Bower</li> How to use Firebase to easily build in authentication and online/offline database access using the cloud"
   subtype: keynote
   speakers: [6, 7]
   language: uk
@@ -59,7 +59,7 @@
 -
   id: 005
   title: "Vanilla Custom Element Inter-op: Never Port Your Custom Dropdown Again"
-  description: "The web development community moves fast, so how do we avoid rebuilding our custom UI components every year or so? Enter custom elements. Custom Elements are an extremely powerful technology for building web applications and there have been many promises of plug and play, but how do we actually DO that? There are a ton of existing applications built with a variety of frameworks and libraries that we have to account for. In this talk you will learn how to create basic vanilla custom elements and how to integrate them into some of today’s most popular frameworks. What you’ll learn: How to create vanilla custom elements How to leverage custom attributes and Events for I/O How to then use these elements in existing frameworks. (Angular2, React, etc)"
+  description: "The web development community moves fast, so how do we avoid rebuilding our custom UI components every year or so? Enter custom elements. Custom Elements are an extremely powerful technology for building web applications and there have been many promises of plug and play, but how do we actually DO that? There are a ton of existing applications built with a variety of frameworks and libraries that we have to account for. In this talk you will learn how to create basic vanilla custom elements and how to integrate them into some of today’s most popular frameworks. <h4>What you’ll learn:</h4> <ul><li>How to create vanilla custom elements</li> <li>How to leverage custom attributes and Events for I/O</li> <li>How to then use these elements in existing frameworks. (Angular2, React, etc)</li></ul>"
   subtype: keynote
   speakers: [2]
   language: en
