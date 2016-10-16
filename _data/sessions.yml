@@ -12,7 +12,7 @@
 -
   id: 001
   title: "Develop Maintainable Apps"
-  description: "The number of Android Libraries available is enormous and that number continues to grow day-by-day! But should you try to incorporate them all into your application? Do you really need to use EventBus, RxJava, and Custom Observables? How many different image libraries have you included? Hopefully you get the point, great Android apps only include what’s needed to achieve the goals of the product, not enhance the resume of the developer. In this talk learn four components essential to developing maintainable Android applications and walk away with the tools you need to be a good Android citizen! <h3>What you’ll learn:</h3> <ul><li>The criteria you should use when choosing a library to include in your project</ul> <ul>Simple changes you can adopt to improve your domain design Tools that are available to assist you in delivering high quality code</li> <li>Testing techniques to serve as a safety net.</li></ul>"
+  description: "The number of Android Libraries available is enormous and that number continues to grow day-by-day! But should you try to incorporate them all into your application? Do you really need to use EventBus, RxJava, and Custom Observables? How many different image libraries have you included? Hopefully you get the point, great Android apps only include what’s needed to achieve the goals of the product, not enhance the resume of the developer. In this talk learn four components essential to developing maintainable Android applications and walk away with the tools you need to be a good Android citizen! <h4>What you’ll learn:</h4> <ul><li>The criteria you should use when choosing a library to include in your project</li> <li>Simple changes you can adopt to improve your domain design Tools that are available to assist you in delivering high quality code</li> <li>Testing techniques to serve as a safety net.</li></ul>"
   subtype: workshop
   speakers: [5]
   language: en
@@ -20,13 +20,12 @@
 -
   id: 002
   title: "Stop Wasting Your Analytics Budget"
-  description: "When approached with clear intentions, web analytics can be a game-changing part of any online presence. It can inform massive redesigns, drive additional engagement, and spur continued site improvements. Despite its potential, the full power of analytics is often neutered by a misappropriation of priorities and resources, leading to a stream of sterile, uninspiring reports and dashboards. Learn to recognize these challenges, identify them within your own organization, and confront them head on. We’ll explore the distinction between ‘interesting’ and ‘actionable’ data, the downsides of monthly reports, and the importance of the 10/90 rule. Finally, we’ll identify a single word that will immediately push your analytics strategy in the right direction: “Why?”. What you’ll learn: How to think about web analytics and its role in decision making How to allocate your analytics budget How to make analytics reports compelling and actionable Why audience segmentation is indispensable Who in your organization should care about analytics"
+  description: "When approached with clear intentions, web analytics can be a game-changing part of any online presence. It can inform massive redesigns, drive additional engagement, and spur continued site improvements. Despite its potential, the full power of analytics is often neutered by a misappropriation of priorities and resources, leading to a stream of sterile, uninspiring reports and dashboards. Learn to recognize these challenges, identify them within your own organization, and confront them head on. We’ll explore the distinction between ‘interesting’ and ‘actionable’ data, the downsides of monthly reports, and the importance of the 10/90 rule. Finally, we’ll identify a single word that will immediately push your analytics strategy in the right direction: “Why?”. <h4>What you’ll learn:</h4> <ul><li>How to think about web analytics and its role in decision making How to allocate your analytics budget</li> <li>How to make analytics reports compelling and actionable</li> <li>Why audience segmentation is indispensable</li> <li>Who in your organization should care about analytics</li></ul>"
   subtype: presentation
   speakers: [3]
   language: en
   complexity: "Intermediate" 
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 003
   title: "Hands On With Google Cloud Platform Compute Engine Servers"
@@ -45,7 +44,6 @@
   language: uk
   complexity: "Beginner"
   presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
   id: 005
   title: "Vanilla Custom Element Inter-op: Never Port Your Custom Dropdown Again"
@@ -55,4 +53,3 @@
   language: en
   complexity: "Expert"
   presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
