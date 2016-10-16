@@ -1,4 +1,16 @@
 -
+  id: 107
+  title: "Morning Run With Josh Clark"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 207
+  title: "Breakfast"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
   id: 307
   title: "Coffee Break"
   place: "Hall"
