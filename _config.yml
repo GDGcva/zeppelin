@@ -97,9 +97,9 @@ eventAddressCountry: "USA"
 eventStartTime: "2016-10-24T08:00"
 eventDoorTime: "08:00"
 eventEndTime: "2016-10-26T20:00"
-eventPlaceCoordinates: "38.0320339,-78.4949704"
-mapCenterCoordinates: "38.0320339,-78.4949704"
-mapMobileCenterCoordinates: "38.0320339,-78.4949704"
+eventPlaceCoordinates: "38.0299961,-78.5513038"
+mapCenterCoordinates: "38.0299961,-78.5513038"
+mapMobileCenterCoordinates: "38.0299961,-78.5513038"
 
 # Venue Block
 venueBlockTitle: "Venue"
