@@ -1,14 +1,15 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Central Virginia", description: "GDG Central Virginia - Open and volunteer geek community", link: "http://www.centralvirginia.com", imageUrl: "GDG_CentralVirginialogo.png"}
+    - {name: "GDG Central Virginia", description: "GDG Central Virginia - Open and volunteer geek community", link: "http://www.gdgcentralvirginia.com", imageUrl: "GDG_CentralVirginialogo.png"}
 - 
   group: "Co-organizers"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "edUi Conference", description: "GDG Central Virginia - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
     - {name: "WillowTree Apps", description: "WillowTree Apps", link: "http://WillowTreeApps.com", imageUrl: "willowtree.png"}
     - {name: "OpenGrounds", description: "Open Grounds", link: "http://opengrounds.virginia.edu", imageUrl: "opengrounds_logo.png"}
-    - {name: "edUi Conference", description: "GDG Central Virginia - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+
 
   group: "With support of"
   elements: 
