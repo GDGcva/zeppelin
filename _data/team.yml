@@ -2,7 +2,7 @@
   id: 0
   name: "Starrie"
   surname: "Williamson"
-  title: "Sponsors and Speakers Manager"
+  title: "Lead Organizer"
   thumbnailUrl: starrie_professional.jpg
   team: true
   ribbon: 
@@ -16,7 +16,7 @@
   id: 1
   name: "Jonathan"
   surname: "Garbee"
-  title: "Designer and Web Developer"
+  title: "Google Developer Expert, Speaker and Co-Organizer"
   thumbnailUrl: jonathangarbee.jpg
   team: true
   ribbon: 
@@ -28,7 +28,7 @@
   id: 2
   name: "Jossay"
   surname: "Jocabo"
-  title: "Sponsors and Speakers Manager"
+  title: "Sponsors, Speaker, and Co-Organizer"
   thumbnailUrl: jossay.jpg
   team: true
   ribbon: 
@@ -41,7 +41,7 @@
   id: 3
   name: "Doug"
   surname: "Chestnut"
-  title: "Android Program Committee"
+  title: "Co-organizer and Speaker"
   thumbnailUrl: dougchestnut.jpg
   subTeam: true
   social: 
