@@ -8,10 +8,10 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+    - {name: "site", link: ""}
 - 
   id: 1
   name: "Jonathan"
@@ -22,8 +22,8 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "google-plus", link: ""}
+    - {name: "github", link: ""}
 - 
   id: 2
   name: "Jossay"
@@ -34,17 +34,17 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "site", link: ""}
 - 
   id: 3
   name: "Doug"
   surname: "Chestnut"
   title: "Co-organizer and Speaker"
   thumbnailUrl: dougchestnut.jpg
-  subTeam: true
+  team: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "google-plus", link: ""}
     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
