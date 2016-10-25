@@ -37,7 +37,7 @@
   speakers: [3]
   language: en
   complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  presentation: "http://www.slideshare.net/MitchDaniels1/stop-wasting-your-analytics-budget-edui-2016/1"
 -
   id: 003
   title: "Hands On With Google Cloud Platform Compute Engine Servers"
@@ -46,7 +46,7 @@
   speakers: [4]
   language: en
   complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  presentation: "https://github.com/Chidams/eduui/blob/master/Google-Cloud-Platform-eduui.pdf"
 -
   id: 004
   title: "Progressive Web Apps with Firebase and Polymer"
